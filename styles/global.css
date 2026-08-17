@@ -18,8 +18,8 @@
     --font-family:"Inter", sans-serif;
     --text-lg: bold 32px/125% var(--font-family);
     --text: 16px/150% var(--font-family);
-    --text-md: 14px/175% var(--font-family);
-    --text-sm: 12px/175% var(--font-family);
+    --text-md: 14px/170% var(--font-family);
+    --text-sm: 12px/170% var(--font-family);
 
 }
 
@@ -45,6 +45,6 @@ a:hover {
     margin-inline: auto;
 }
 
-.bg-surface.color {
+.bg-surface-color {
     background-color: var(--surface-color);
 }
